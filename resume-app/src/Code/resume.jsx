@@ -220,7 +220,7 @@ export default function JobMatcher() {
                         textTransform: "uppercase",
                         marginBottom: "12px",
                         fontFamily: "monospace"
-                    }}>AI-Powered Career Intelligence</div>
+                    }}>Dream Job Destination Powered By Open AI</div>
                     <h1 style={{
                         fontSize: "clamp(32px, 6vw, 54px)",
                         fontWeight: "400",
